@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#p{
+    color: rgb(21, 162, 217);
+    text-shadow: 0px 4px 8px;
+}
+#e{
+    color: yellow;
+    text-shadow: 0px 4px 8px;
+}
+#r{
+    color: palevioletred;
+    text-shadow: 0px 4px 8px;
+}
+#i{
+    color: orange;
+    text-shadow: 0px 4px 8px;
+}
+#o{
+    color: red;
+    text-shadow: 0px 4px 8px;
+}
+#d{
+    color:lightgreen;
+    text-shadow: 0px 4px 8px;
+}
+#ii{
+    color: blue;
+    text-shadow: 0px 4px 8px;
+}
+#c{
+    color:orangered;
+    text-shadow: 0px 4px 8px;
+}
+
+#t{
+    color: rgb(19, 229, 19);
+    text-shadow: 0px 4px 8px;
+}
+#a{
+    color: palevioletred;
+    text-shadow: 0px 4px 8px;
+}
+#b{
+    color: rgb(255, 119, 0);
+    text-shadow: 0px 4px 8px;
+}
+#l{
+    color:rgb(21, 162, 217) ;
+    text-shadow: 0px 4px 8px;
+}
+#ee{
+    color: red;
+    text-shadow: 0px 4px 8px;
+}
+#oo{
+    color: rgb(210, 24, 55);
+    text-shadow: 0px 4px 8px;
+}
+#f{
+    color: rgb(15, 246, 34);
+    text-shadow: 0px 4px 8px;
+}
+#E{
+    color: rgb(0, 157, 255);
+    text-shadow: 0px 4px 8px;
+}
+#L{
+    color: greenyellow;
+    text-shadow: 0px 4px 8px;
+}
+#EE{
+    color: rgb(222, 147, 8);
+    text-shadow: 0px 4px 8px;
+}
+#M{
+    color: rgb(74, 74, 227);
+    text-shadow: 0px 4px 8px;
+}
+#EEE{
+    color: rgb(240, 100, 147);
+    text-shadow: 0px 4px 8px;
+}
+#N{
+    color: red;
+    text-shadow: 0px 4px 8px;
+}
+#T{
+    color: rgb(159, 243, 34);
+    text-shadow: 0px 4px 8px;
+}
+#S{
+    color: rgb(239, 160, 13);
+    text-shadow: 0px 4px 8px;
+}
